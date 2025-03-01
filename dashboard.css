@@ -1,0 +1,15 @@
+.navbar {
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 1%;
+}
+
+.navbardiv ul {
+  color: grey;
+}
+.text {
+  background-image: linear-gradient(45deg, #e4e3d6, #6a6264);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

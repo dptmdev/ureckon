@@ -1,0 +1,8 @@
+.background {
+  background-color: linear-gradient(to right, #1f2421, #0a0c0b);
+  background-image: url("asset/background.png");
+}
+
+.button {
+  border-radius: 50%;
+}
